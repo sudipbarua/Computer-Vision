@@ -5,3 +5,4 @@ Exercises on
 * Camera Calibration
 * Esimation of transformations
 * Stereo Vision
+* CNN
